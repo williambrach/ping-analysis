@@ -1,0 +1,5 @@
+history
+old_version
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
