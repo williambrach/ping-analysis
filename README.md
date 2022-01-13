@@ -19,7 +19,7 @@ optional arguments:
 
 ```
 
-### Exmaple of usage 1
+### Exmaple of usage
 ```bash
 python ping.py --ping google.sk -o test
 ```
